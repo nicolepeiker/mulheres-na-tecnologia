@@ -1,0 +1,17 @@
+.imagem-destaque {
+  background-color: gray;
+  width: 500px;
+  height: 500px;
+}
+
+.container {
+  margin: 0 2rem;
+}
+
+.destaque {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+}
