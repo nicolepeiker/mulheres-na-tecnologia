@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/nicolepeiker/mulheres-na-tecnologia#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.3"
   }
 }
