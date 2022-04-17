@@ -1,11 +1,14 @@
+const cors = require('cors')
 const express = require('express')
 const app = express()
+app.use(cors())
 
 const recuperaDestaque = (req, res) => {
     const destaque = {
         titulo: "Mulheres na tecnologia",
         data: Date()
     }
+   
     res.send(destaque)
 }
 
