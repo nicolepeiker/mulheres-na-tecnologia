@@ -1,0 +1,30 @@
+{
+  "name": "mulheres-na-tecnologia-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolepeiker/mulheres-na-tecnologia.git"
+  },
+  "keywords": [
+    "mulheres",
+    "tecnologia",
+    "sociedade",
+    "equidade",
+    "historia",
+    "inclusao"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolepeiker/mulheres-na-tecnologia/issues"
+  },
+  "homepage": "https://github.com/nicolepeiker/mulheres-na-tecnologia#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
